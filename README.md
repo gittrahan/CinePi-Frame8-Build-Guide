@@ -3,6 +3,7 @@
 ### Introduction
 The CinePi project can be found at https://github.com/schoolpost/CinePI
 The Frame8 Model can be found at https://makerworld.com/en/models/1438499-cinepi-frame8-raspberry-pi-box-camera-v1?from=search#profileId-1496822
+
 I made a video on this project and it can be found [here](https://youtu.be/cIMDtogM464)
 
 The makers of the software and the 3D models have put in an incredible amount of effort, so I want to give back a tiny bit by documenting the build process as best I can. The end goal of this guide is to walk you through how to build the DIY cinema project built on the projects linked above. While the Frame8 project has a guide, I feel that pictures and thorough explanations may help more people build the project.
